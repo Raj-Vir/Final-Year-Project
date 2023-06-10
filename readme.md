@@ -9,5 +9,3 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-### Future work
-- use the same company name (already present in the stock price predictions) and make separate notebook files for each company and display the graphs
